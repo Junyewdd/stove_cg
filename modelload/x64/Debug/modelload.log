@@ -1,0 +1,19 @@
+﻿  model_loading.cpp
+C:\Users\nara0\Desktop\cg_model\include\learnopengl\shader_m.h(45,40): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+  (소스 파일 'src/model_loading.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\nara0\Desktop\cg_model\include\learnopengl\mesh.h(84,50): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'src/model_loading.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\nara0\Desktop\cg_model\src\model_loading.cpp(165,28): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nara0\Desktop\cg_model\src\model_loading.cpp(263,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nara0\Desktop\cg_model\src\model_loading.cpp(264,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nara0\Desktop\cg_model\src\model_loading.cpp(277,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nara0\Desktop\cg_model\src\model_loading.cpp(278,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nara0\Desktop\cg_model\src\model_loading.cpp(282,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nara0\Desktop\cg_model\src\model_loading.cpp(283,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nara0\Desktop\cg_model\src\model_loading.cpp(285,13): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nara0\Desktop\cg_model\src\model_loading.cpp(286,13): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\nara0\Desktop\cg_model\src\model_loading.cpp(293,31): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  modelload.vcxproj -> C:\Users\nara0\Desktop\cg_model\x64\Debug\modelload.exe
